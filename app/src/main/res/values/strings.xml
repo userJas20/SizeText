@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">lngs</string>
+    <string name="param_tres">Paramétres</string>
+    <string name="nom_et_pr_nom">nom et prénom</string>
+    <string name="num_ro_du_t_l_phone">numéro du téléphone</string>
+    <string name="modifier_le_profil">modifier le profil</string>
+    <string name="mode_sombre">Mode sombre</string>
+    <string name="langues">langues</string>
+    <string name="taille_du_text">Taille du text</string>
+    <string name="deconnexion">Deconnexion</string>
+    <string name="a_propos_de_l_application">A propos de l\'application</string>
+    <string name="connexion">connexion</string>
+    <string name="nom_d_utilisateur">Nom d\'utilisateur</string>
+    <string name="mot_de_pass">Mot de pass</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="vous_n_avez_pas_de_compte">Vous n\'avez pas de compte ?</string>
+    <string name="s_inscrire">S\'inscrire</string>
+    <string name="_7_la_pris_de_tension_apr_s_une_prise_de_tension_l_aide_d_un_tensiom_tre_vous_devez_saisir_la_systolique_la_diastolique_puis_les_pulse_affich_es_sur_l_appareil_ensuite_vous_validez">7.La pris de tension : Après une prise de tension à l’aide d’un tensiomètre ,vous devez saisir la systolique, la diastolique, puis les pulse affichées sur l’appareil, ensuite vous validez.</string>
+    <string name="bienvenue_dans_l_aide_de_hellomydoctor_cette_page_vous_fournira_des_informations_d_taill_es_sur_les_fonctionalit_s_de_l_application_et_la_fa_on_de_les_utiliser_efficacement_pour_mesurer_votre_ta_recevoir_des_conseils_suivre_un_regime_alimentaire_et_pleines_d_autres_fonctionalit_s">Bienvenue dans l\'aide de HelloMyDoctor! Cette page vous fournira des informations détaillées sur les fonctionalités de l\'application et la façon de les utiliser efficacement pour mesurer votre TA, recevoir des conseils, suivre un regime alimentaire et pleines d\'autres fonctionalités.</string>
+    <string name="_1_introduction_hellomydoctor_est_une_application_simple_et_conviviale_qui_vous_permet_de_suivre_votre_ta">1.Introduction : HelloMyDoctor est une application simple et conviviale qui vous permet de suivre votre TA .</string>
+    <string name="_2_la_connexion_a_notre_l_application_pour_se_connecter_a_notre_application_il_suffit_de_saisir_votre_nom_d_utilisateur_et_le_mot_de_passe_sinon_si_vous_n_avez_pas_un_compte_vous_devez_vous_s_inscrire">2.La connexion a notre l\'application : Pour se connecter a notre application il suffit de saisir votre nom d\'utilisateur et le mot de passe ,sinon si vous n\'avez pas un compte vous devez vous s\'inscrire.</string>
+    <string name="_3_l_inscription_notre_application_nec_ssite_une_premi_re_inscription_pour_cela_vous_devez_saisir_votre_nom_complet_et_votre_mot_de_passe_pour_l_identification">3.L\'inscription : Notre application necéssite une première inscription,pour cela vous devez saisir votre nom complet et votre mot de passe pour l\'identification.</string>
+    <string name="_4_la_saisie_des_informations_personels_vous_commencez_par_choisir_votre_sexe_age_la_taille_cm_et_votre_poids_cette_fonctionnalit_permet_de_calculer_votre_imc_et_retourner_un_commentaire_qui_d_crit_votre_tat_soit_en_vous_rassurant_ou_en_vous_alertant_s_il_franchit_les_normes_indiqu_es">4.La saisie des informations personels:Vous commencez par choisir votre sexe,age,la taille(cm) ,et votre poids.Cette fonctionnalité permet de calculer votre IMC et retourner un commentaire qui décrit votre état, soit en vous rassurant , ou en vous alertant s’il franchit les normes indiquées.</string>
+    <string name="_5_la_prise_des_m_dicaments_hellomydoctor_vous_fournis_une_action_qui_vous_aides_a_ne_pas_oublier_vos_m_dicaments_en_saisant_vos_m_dicaments_prescrits_par_le_m_decin_et_r_gler_l_heure_de_la_prise_ensuite_valider_vous_recevra_des_notifications_en_fonction_de_l_heure_saisie_initialement_un_simple_rappel_qui_indique_que_c_est_le_moment_de_prendre_votre_m_dicament">5.La prise des médicaments : HelloMyDoctor vous fournis une action qui vous aides a ne pas oublier vos médicaments en saisant vos médicaments prescrits par le médecin et régler l’heure de la prise ensuite valider. Vous recevra des notifications en fonction de l’heure saisie initialement, un simple rappel qui indique que c’est le moment de prendre votre médicament.</string>
+    <string name="_6_vos_rendez_vous_m_dicaux_hellomydoctor_est_la_aussi_pour_vos_rendez_vous_vous_saissez_le_nom_complet_de_votre_m_decin_ensuite_la_date_du_rendez_vous_que_votre_m_decin_vous_a_accord_ensuite_valider_ces_informations_seront_enregistr_es_automatiquement_et_affich_es_sur_une_liste_avec_la_possibilit_de_supprimer_si_besoin_une_notification_vas_s_afficher_pour_vous_rappeler_de_votre_rendez_vous">6. Vos rendez-vous médicaux : HelloMyDoctor est la aussi pour vos rendez-vous.Vous saissez le nom complet de votre médecin, ensuite la date du rendez-vous que votre médecin vous a accordé ensuite valider.Ces informations seront enregistrées automatiquement et affichées sur une liste, avec la possibilité de supprimer si besoin. Une notification vas s\'afficher pour vous rappeler de votre rendez-vous.</string>
+    <string name="_8_le_r_gime_alimentaire_hellomydoctor_vous_offerts_des_menus_personalis_s_contenant_des_repas_specials_adapt_s_a_votre_maladie">8.Le régime alimentaire : HelloMyDoctor vous offerts des menus personalisés contenant des repas specials adaptés a votre maladie</string>
+    <string name="_9_le_programme_sportif_on_vous_offerts_aussi_un_programme_sportif_personnalis_avec_nombres_de_fois_par_semaine_et_la_dur_e_de_chaque_s_ance">9.Le programme sportif : on vous offerts aussi un programme sportif personnalisé,avec nombres de fois par semaine et la durée de chaque séance.</string>
+    <string name="nous_esp_rons_que_cette_page_d_aide_vous_a_fourni_les_informations_n_cessaires_pour_utiliser_efficacement_hellomydoctor_et_suivre_bien_votre_ta_en_tout_confiance_merci_d_utiliser_notre_application_et_bonne_mesure">Nous espérons que cette page d\'aide vous a fourni les informations nécessaires pour utiliser efficacement HelloMyDoctor et suivre bien votre TA en tout confiance. Merci d\'utiliser notre application et bonne mesure !</string>
+
+    <string-array name="text_sizes">
+        <item>Moyen</item>
+        <item>Petit</item>
+        <item>Grand</item>
+    </string-array>
+
+</resources>
+
+
+

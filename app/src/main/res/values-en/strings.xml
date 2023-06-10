@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lngs</string>
+    <string name="param_tres">Settings</string>
+    <string name="nom_et_pr_nom">full name</string>
+    <string name="num_ro_du_t_l_phone">phone number</string>
+    <string name="modifier_le_profil">modify the profile</string>
+    <string name="mode_sombre">Dark mode</string>
+    <string name="langues">Languages</string>
+    <string name="taille_du_text">Text size</string>
+    <string name="deconnexion">Logout</string>
+    <string name="a_propos_de_l_application">"About the app"</string>
+
+    <string-array name="text_sizes">
+        <item>Average</item>
+        <item>Little</item>
+        <item>Big</item>
+    </string-array>
+    <string name="connexion">connection</string>
+    <string name="nom_d_utilisateur">username</string>
+    <string name="mot_de_pass">Password</string>
+    <string name="se_connecter">To log in</string>
+    <string name="vous_n_avez_pas_de_compte">You do not have an account ?</string>
+    <string name="s_inscrire">Register</string>
+
+</resources>

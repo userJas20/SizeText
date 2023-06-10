@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="@style/SCREEN"
+    android:orientation="vertical"
+    tools:context=".aprops">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/intro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bienvenue_dans_l_aide_de_hellomydoctor_cette_page_vous_fournira_des_informations_d_taill_es_sur_les_fonctionalit_s_de_l_application_et_la_fa_on_de_les_utiliser_efficacement_pour_mesurer_votre_ta_recevoir_des_conseils_suivre_un_regime_alimentaire_et_pleines_d_autres_fonctionalit_s"
+        android:fontFamily="@font/chilanka"
+        style="@style/TEXTPara"
+        tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_1_introduction_hellomydoctor_est_une_application_simple_et_conviviale_qui_vous_permet_de_suivre_votre_ta"
+            android:fontFamily="@font/chilanka"
+            style="@style/TEXTPara"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_2_la_connexion_a_notre_l_application_pour_se_connecter_a_notre_application_il_suffit_de_saisir_votre_nom_d_utilisateur_et_le_mot_de_passe_sinon_si_vous_n_avez_pas_un_compte_vous_devez_vous_s_inscrire"
+            android:fontFamily="@font/chilanka"
+            style="@style/TEXTPara"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/text3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_3_l_inscription_notre_application_nec_ssite_une_premi_re_inscription_pour_cela_vous_devez_saisir_votre_nom_complet_et_votre_mot_de_passe_pour_l_identification"
+            android:fontFamily="@font/chilanka"
+            style="@style/TEXTPara"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/text4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_4_la_saisie_des_informations_personels_vous_commencez_par_choisir_votre_sexe_age_la_taille_cm_et_votre_poids_cette_fonctionnalit_permet_de_calculer_votre_imc_et_retourner_un_commentaire_qui_d_crit_votre_tat_soit_en_vous_rassurant_ou_en_vous_alertant_s_il_franchit_les_normes_indiqu_es"
+            android:fontFamily="@font/chilanka"
+            style="@style/TEXTPara"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/text5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_5_la_prise_des_m_dicaments_hellomydoctor_vous_fournis_une_action_qui_vous_aides_a_ne_pas_oublier_vos_m_dicaments_en_saisant_vos_m_dicaments_prescrits_par_le_m_decin_et_r_gler_l_heure_de_la_prise_ensuite_valider_vous_recevra_des_notifications_en_fonction_de_l_heure_saisie_initialement_un_simple_rappel_qui_indique_que_c_est_le_moment_de_prendre_votre_m_dicament"
+            android:fontFamily="@font/chilanka"
+            style="@style/TEXTPara"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/text6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_6_vos_rendez_vous_m_dicaux_hellomydoctor_est_la_aussi_pour_vos_rendez_vous_vous_saissez_le_nom_complet_de_votre_m_decin_ensuite_la_date_du_rendez_vous_que_votre_m_decin_vous_a_accord_ensuite_valider_ces_informations_seront_enregistr_es_automatiquement_et_affich_es_sur_une_liste_avec_la_possibilit_de_supprimer_si_besoin_une_notification_vas_s_afficher_pour_vous_rappeler_de_votre_rendez_vous"
+            android:fontFamily="@font/chilanka"
+            style="@style/TEXTPara"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/text7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_7_la_pris_de_tension_apr_s_une_prise_de_tension_l_aide_d_un_tensiom_tre_vous_devez_saisir_la_systolique_la_diastolique_puis_les_pulse_affich_es_sur_l_appareil_ensuite_vous_validez"
+            android:fontFamily="@font/chilanka"
+            style="@style/TEXTPara"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/text8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_8_le_r_gime_alimentaire_hellomydoctor_vous_offerts_des_menus_personalis_s_contenant_des_repas_specials_adapt_s_a_votre_maladie"
+            android:fontFamily="@font/chilanka"
+            style="@style/TEXTPara"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/text9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_9_le_programme_sportif_on_vous_offerts_aussi_un_programme_sportif_personnalis_avec_nombres_de_fois_par_semaine_et_la_dur_e_de_chaque_s_ance"
+            android:fontFamily="@font/chilanka"
+            style="@style/TEXTPara"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/merci"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/nous_esp_rons_que_cette_page_d_aide_vous_a_fourni_les_informations_n_cessaires_pour_utiliser_efficacement_hellomydoctor_et_suivre_bien_votre_ta_en_tout_confiance_merci_d_utiliser_notre_application_et_bonne_mesure"
+            android:fontFamily="@font/chilanka"
+            style="@style/TEXTPara"
+            tools:ignore="MissingConstraints" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
